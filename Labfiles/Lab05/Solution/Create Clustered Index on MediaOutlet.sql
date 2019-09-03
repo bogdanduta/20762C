@@ -1,3 +1,0 @@
-ALTER TABLE Sales.MediaOutlet ADD CONSTRAINT IX_MediaOutlet UNIQUE CLUSTERED (
-MediaOutletID
-);
